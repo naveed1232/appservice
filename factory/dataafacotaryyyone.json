@@ -1,0 +1,9 @@
+{
+	"name": "dataafacotaryyyone",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25d95092-9031-4250-b4ed-2d0593372f70",
+		"tenantId": "67825857-26be-4874-9fa3-77bd68482b1b"
+	}
+}
